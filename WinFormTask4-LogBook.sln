@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormTask4-LogBook", "WinFormTask4-LogBook.csproj", "{08EAAAE9-F0C4-43C6-9822-6C095F76194D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08EAAAE9-F0C4-43C6-9822-6C095F76194D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08EAAAE9-F0C4-43C6-9822-6C095F76194D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08EAAAE9-F0C4-43C6-9822-6C095F76194D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08EAAAE9-F0C4-43C6-9822-6C095F76194D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AC797C8-C2DC-4EA0-9962-0FC6DBF6F487}
+	EndGlobalSection
+EndGlobal
